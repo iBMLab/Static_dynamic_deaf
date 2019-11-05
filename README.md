@@ -6,6 +6,7 @@
 _<sup>1</sup>Department of Psychology, University of Fribourg, Fribourg, Switzerland_
 
 _<sup>2</sup>Laboratoire de Psychologie et de Neurocognition (CNRS-UMR5105), Université Grenoble-Alpes, France_
+
 _<sup>3</sup>National Technical Institute for Deaf/Rochester Institute of Technology, Rochester, New York, USA_
 
 _<sup>*</sup>These authors contributed equally to this work_
