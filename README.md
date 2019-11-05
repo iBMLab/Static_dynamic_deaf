@@ -16,6 +16,5 @@ _<sup>*</sup>These authors contributed equally to this work_
 This repository contains:
 * Experiment paradigm and stimulus (Matlab and PTB3, `/experiment_code`)
 * Raw data (.txt, `/data`)
-* Analysis code (`Data_analysis_Final.ipynb`)
+* Analysis code (`Data_analysis_final.ipynb`)
 * Figures in the paper (`/figs`)
-* Supplementary analysis (`/Supplementary_code`)
